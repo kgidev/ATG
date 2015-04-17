@@ -17,6 +17,11 @@ use Symfony\Component\Console\Output\OutputInterface;
  */
 class HelloWorldCommand extends Command
 {
+    public function toTestFor($input)
+    {
+        return $input;
+    }
+
     /**
      * {@inheritdoc}
      */
