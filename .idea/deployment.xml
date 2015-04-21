@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="PHP_Server" />
+  <component name="PublishConfigData" serverName="PHP_Server">
+    <serverData>
+      <paths name="PHP_Server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/web" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
 </project>
